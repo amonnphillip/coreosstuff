@@ -1,0 +1,6 @@
+users:
+  - name amonn
+    passwd: $1$C2/r9ioI$3h8/uY0C/JPyQHVT9hVoO1
+	groups:
+	  - sudo
+	  - docker
