@@ -1,0 +1,1 @@
+{"ignition":{"version":"2.0.0","config":{}},"storage":{},"systemd":{},"networkd":{},"passwd":{"users":[{"name":"amonn","passwordHash":"$1$EJz3Bg4o$NLDzQTDh8RXMvHnXZuiiJ.","create":{"groups":["sudo","docker"]}}]}}
