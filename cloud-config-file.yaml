@@ -1,6 +1,6 @@
 passwd:
   users:
     - name: amonn
-      password_hash: "$1$EJz3Bg4o$NLDzQTDh8RXMvHnXZuiiJ."
+      password_hash: "$1$0znwzDwm$NDO9Hu6B1UIhtptj4GHET/"
       create:
         groups: [ sudo, docker ]
