@@ -1,6 +1,8 @@
 passwd:
   users:
     - name: amonn
-      password_hash: "$1$0znwzDwm$NDO9Hu6B1UIhtptj4GHET/"
+      password_hash: "$1$InfOt0kh$Y00qzU5Pu4lHS.ALRglZj/"
+      ssh_authorized_keys:
+        - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7oChblqFRdDb/iYgOXcoiltw94cFCdfFY/mT2rMiqd0X8wzq7/cwTgbgqbLmIFyNag6nUXXWk1WWFDk1d5IUlEtsdvahKezB2Tnu7ovRgsNLdqABZm1quj0aKFlrFwBpUadhHBDBnQBR6QwGzFh2TiK2dhDF5kFbmno3nsOPJHGR4fpkRTo2d5TVvu2x0ubvd8S5Ti2YvwSlUdpr+Y6ebKAH/F//wthny+G90bKmE7f4i6ENfPu0apjMw0zrBd28nnlkFI7sr31TLdYtj2wSs5OU5HwFU1fILxzbOHuYJ/RpYaEML0lfpjkHZxYhAddKfOzRx6YmraYmc6ckSP2vx"
       create:
         groups: [ sudo, docker ]
